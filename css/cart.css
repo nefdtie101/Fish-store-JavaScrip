@@ -1,0 +1,12 @@
+/*This will effect all the cart page*/
+button {
+    display: block;
+    text-align: center;
+    color: white;
+    border-color: #045362;
+    background-color: #045362;
+    border-radius: 4px;
+    font-family: cursive;
+    margin-bottom: 5px;
+    padding: 1px;
+}

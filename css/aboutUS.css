@@ -1,0 +1,47 @@
+/*This applies to the About us page */
+
+
+/*This applies to this containers */
+#con2{
+    width: 100%;
+    margin: 0%;
+}
+
+/*This is the style sheet for the page*/
+
+
+body {
+    background-color: cadetblue;
+}
+
+
+ #hedder > div > h2{
+     text-align: center;
+     font-family:cursive;
+     color: white;
+ }
+
+ #paragraph > div >p{
+     color: white;
+     text-align: center;
+     font-family:cursive;
+     font-size: 30px
+ }
+ /*This is the img*/
+ #nemo > div > img{
+     text-align: center;
+     border-style: solid;
+     border-color: black;
+ }
+
+
+#nemo > div {
+    text-align: center;
+}
+
+
+
+
+
+
+

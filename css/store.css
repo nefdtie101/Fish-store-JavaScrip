@@ -1,0 +1,70 @@
+/*This is CSS for the store page*/
+
+
+
+/*This applies to the main hedding*/
+#mainHeader > div{
+    text-align: center;
+    font-family:cursive;
+}
+/*This is for all the headings */
+h2{
+    margin-top: 15px;
+}
+
+
+/*This is the more button*/
+.moreBtn {
+    margin-top: 5px;
+    text-decoration: none;
+    border-style: solid;
+    border-color: #045362;
+    background-color: #045362;
+    text-transform: uppercase;
+    color: white;
+    font-family: cursive;
+    border-radius: 4px;
+}
+/*This will apply to the add to cart button*/
+.addCartBtn{
+    margin-top: 5px;
+    text-decoration: none ;
+    border-style: solid;
+    border-color:#045362;
+    background-color: #045362;
+    text-transform: uppercase;
+    color: white;
+    font-family: cursive;
+    border-radius: 4px;
+}
+
+
+
+/*This applies to the hole page */
+body{
+    background-color:  cadetblue;
+    color: white;
+}
+
+
+
+/*This applies to all the img*/
+
+    
+    
+
+
+.img1{
+    width: 150px;
+    border-style: solid;
+    
+
+}
+
+/*Makes picture bigger.*/
+.img1:hover{
+    width: 300px ;
+
+}
+
+

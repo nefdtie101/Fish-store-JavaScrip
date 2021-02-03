@@ -1,0 +1,72 @@
+/*This css only Applies to the home page  */
+
+
+/*This is the applies to the body of the page.*/
+body{
+    background-color: cadetblue;
+}
+
+/*This applies to this container. */
+#con2{
+    width: 100%;
+    margin: 0%;
+}
+
+
+/*This applies to this heading */
+#mainHeader {
+    text-align: center;
+    font-family:cursive;
+    color:white;
+
+}
+
+/*This applies to this paragraph */
+#mainP{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    
+}
+
+/*This applies to the images in the top row */
+#img1_2 > div > img {
+    width:40% ;
+    height: auto;
+    border-style: solid;
+    border-color: 045362;
+    filter: grayscale(100%);
+    
+}
+
+
+/* This applies to the images in the top row*/
+ #img1_2 > div {
+     text-align: center;
+ }
+
+ /* This applies to the bottom image */
+ #img3 > div > img{
+    width:25% ;
+    height: auto;
+    border-style: solid;
+    border-color: 045362;
+    filter: grayscale(100%)
+ }
+
+ /*This applies to the bottom image*/
+ #img3 > div{
+    text-align: center;
+ }
+
+ #testimonial{
+     padding:10px ;
+    text-align: center;
+    color: white;
+    font-family: serif;
+    font-size: 20px;
+
+ }
+
+ 

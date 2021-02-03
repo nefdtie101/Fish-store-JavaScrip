@@ -1,0 +1,44 @@
+/*This will affect all the product pages*/
+
+
+
+#header > div > h2{
+    text-align: center;
+} 
+
+#img > div {
+    text-align: center;
+}
+
+#content > div{
+    text-align: center;
+}
+
+button{
+    color: white;
+    border-color: #045362;
+    background-color: #045362;
+    border-radius: 4px;
+    font-family: cursive;
+    margin-bottom: 5px;
+    padding: 1px;
+
+}
+
+#content > div > a{
+    
+    margin-top: 5px;
+    text-decoration: none ;
+    border-style: solid;
+    border-color:#045362;
+    background-color: #045362;
+    text-transform: uppercase;
+    color: white;
+    font-family: cursive;
+    border-radius: 4px;
+}
+
+ body{
+    background-color:  cadetblue;
+    color: white;
+}

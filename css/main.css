@@ -1,0 +1,140 @@
+/*This applies to all pages. */
+
+/*Gives properties to the form */
+#fLogin{
+    background-color: #045362;
+    padding-top: 2px;
+    text-align: center;
+    margin: 5px;
+
+}
+ 
+/*Gives properties to top container */
+#topCon{
+    margin: 0%;
+    width: 100%;
+    float: right;
+    background-color: #045362;  
+}
+
+/*This is for the home button */
+
+
+#homeBtn{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 15px;
+
+}
+
+
+#homeBtn > a {
+    
+    text-decoration: none ;
+    border-style: solid;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 4px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    font-family: cursive;
+    
+}
+   
+
+
+/*This id the store button */
+
+#storeBtn{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 15px;
+
+}
+
+
+
+ 
+
+#storeBtn > a{
+    text-decoration: none ;
+    border-style: solid;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    border-radius: 4px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 4px; 
+    font-family: cursive;
+
+
+}
+
+
+/*This is the shipping button*/
+#shippingBtn{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 15px;
+}
+
+#shippingBtn > a{
+    text-decoration: none ;
+    border-style: solid;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    padding: 20px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 4px;
+    font-family: cursive;
+}
+
+/*This is the about us button*/
+#aoutUsBtn{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 15px;
+}
+
+#aoutUsBtn > a {
+    text-decoration: none ;
+    border-style: solid;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    padding: 20px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 4px;
+    font-family: cursive;
+}
+
+/*This is the login button. */
+
+#fLogin > label{
+    color: white;
+}
+
+#fLogin > button{
+    margin-top: 1px;
+    border-style: solid;
+    color: white;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    border-radius: 4px;
+    font-family: cursive;
+    padding: 1px;
+}
+/*this is the footer*/
+footer{
+    text-align: center;
+    color: white;
+}

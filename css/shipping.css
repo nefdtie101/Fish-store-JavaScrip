@@ -1,0 +1,66 @@
+/*This applies to the shipping page */
+/*Different ways of doing Things */
+h2 {
+    text-align: center;
+    font-family: cursive;
+}
+/*Shipping img*/
+.Shipping {
+    text-align: center;
+    
+}
+
+.Shipping > img {
+    border-style: solid;
+}
+ 
+
+ /*This is for the list*/
+.list{
+    text-align: center;
+}
+
+ul{
+    
+    text-align: center;
+    
+}
+
+li{
+   list-style: none;
+    font-size: 33px;
+    font-family: cursive;
+    
+}
+
+/*This is a class*/
+.Paragrph1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+ }
+
+
+/*This applies to this page*/
+ body{
+     background-color: cadetblue ;
+     color: white;
+ }
+/*This is for a table*/
+ td{
+     color: white;
+ }
+
+ th{
+     color: white;
+ }
+
+/*This is for the link  */
+ #link {
+     text-align: center;
+     font-size: 25px;
+ }
+
+ #link > a {
+     color: white ;
+ }
