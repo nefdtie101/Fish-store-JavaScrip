@@ -32,5 +32,5 @@
  This store also makes use of Jquery to introduce some effects. Bootstrap
  is used for making the store mobile friendly.
 
-###Credits 
+### Credits 
  Johannes Nefdt 
